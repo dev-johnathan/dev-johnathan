@@ -14,35 +14,26 @@ Fique à vontade para entrar em contato comigo:
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 ## 🚀 Linguagens e Tecnologias
 
+## 🚀 Linguagens e Tecnologias
+
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Jv-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="Jv-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  
-  <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-
-
-  <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-latest-brightgreen">
+  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3.8-blue">
+  <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/React-latest-blue">
+  <img align="center" alt="React Native" height="30" width="40" src="https://img.shields.io/badge/React_Native-latest-blue">
+  <img align="center" alt="REST API" height="30" width="40" src="https://img.shields.io/badge/API-REST-green">
+  <img align="center" alt="Docker" height="30" width="40" src="https://img.shields.io/badge/Docker-latest-blue">
+  <img align="center" alt="AWS" height="30" width="40" src="https://img.shields.io/badge/AWS-latest-orange">
+  <img align="center" alt="IA" height="30" width="40" src="https://img.shields.io/badge/IA-Machine_Learning-blueviolet">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-latest-blue">
+  <img align="center" alt="Linux" height="30" width="40" src="https://img.shields.io/badge/Linux-Ubuntu-green">
+  <img align="center" alt="Git" height="30" width="40" src="https://img.shields.io/badge/Git-latest-orange">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://img.shields.io/badge/GitHub-latest-brightgreen">
 
 </div>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![Node.js](https://img.shields.io/badge/Node.js-latest-brightgreen)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://docs.python.org/3.8/)
-[![React](https://img.shields.io/badge/React-latest-blue)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-latest-blue)](https://reactnative.dev/versions)
-[![REST API](https://img.shields.io/badge/API-REST-green)](https://docs.github.com/en/rest)
-[![Docker](https://img.shields.io/badge/Docker-latest-blue)](https://docs.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-latest-orange)](https://docs.aws.amazon.com/)
-[![IA](https://img.shields.io/badge/IA-Machine_Learning-blueviolet)](https://scikit-learn.org/stable/index.html)
-[![MySQL](https://img.shields.io/badge/MySQL-latest-blue)](https://dev.mysql.com/doc/)
-[![Linux](https://img.shields.io/badge/Linux-Ubuntu-green)](https://help.ubuntu.com/)
-[![Git](https://img.shields.io/badge/Git-latest-orange)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-latest-brightgreen)](https://github.com/)
 
 
 ## 📊 Linguagens Mais Usadas
