@@ -12,95 +12,25 @@ Fique à vontade para entrar em contato comigo:
 ## 🚀 Linguagens e Tecnologias
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 ## 🚀 Linguagens e Tecnologias
-## 🚀 Linguagens e Tecnologias
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; max-width: 800px; margin: 0 auto;">
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <br>
-      JavaScript
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <br>
-      Node.js
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      <br>
-      Python
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <br>
-      React
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <br>
-      React Native
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="API" height="40" src="https://cdn-icons-png.flaticon.com/512/8099/8099220.png">
-      <br>
-      API
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-      <br>
-      Docker
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-      <br>
-      AWS
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="Machine Learning" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png">
-      <br>
-      Machine Learning
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-      <br>
-      MySQL
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-      <br>
-      Linux
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      <br>
-      Git
-    </div>
-
-    <div style="text-align: center; margin: 10px; flex-basis: 200px;">
-      <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-      <br>
-      GitHub
-    </div>
-
-  </div>
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="API" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg">
+  <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Machine Learning" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png">
+  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 </div>
-
-
 
 ## 📊 Linguagens Mais Usadas
 
