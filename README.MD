@@ -12,8 +12,6 @@ Fique à vontade para entrar em contato comigo:
 ## 🚀 Linguagens e Tecnologias
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 
-## 🚀 Linguagens e Tecnologias
-
 <div style="display: flex; justify-content: space-around; align-items: center;"><br>
   
   <div style="text-align: center;">
