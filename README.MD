@@ -97,8 +97,6 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 </div>
 
 
-
-
 ## 📊 Linguagens Mais Usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-johnathan&layout=compact&theme=dracula)](https://github.com/dev-johnathan)
