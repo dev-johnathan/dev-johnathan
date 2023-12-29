@@ -3,6 +3,8 @@ name: update-languages
 on:
   workflow_run:
     workflows: ["Build"]
+    types:
+      - completed
 
 jobs:
   update-languages:
@@ -12,7 +14,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
       with:
-        node-version: '16' 
+        node-version: '16'
 
     - name: Set up Node.js
       uses: actions/setup-node@v3
