@@ -21,9 +21,8 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 [![GitHub](https://img.shields.io/badge/GitHub-latest-brightgreen)](https://github.com/)
 
 <div>
-                                                                                                                                    <a href="https://github.com/dev-johnathan">
-                                                                                                                                  
-                                                                                                                                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-johnathan&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/dev-johnathan">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-johnathan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ## 📫 Entre em Contato
 
