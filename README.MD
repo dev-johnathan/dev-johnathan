@@ -24,6 +24,12 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
   <a href="https://github.com/dev-johnathan">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-johnathan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+## 📊 Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-johnathan&layout=compact&theme=dracula)](https://github.com/dev-johnathan)
+
 ## 📫 Entre em Contato
 
 Fique à vontade para entrar em contato comigo:
