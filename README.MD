@@ -20,7 +20,7 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 [![Git](https://img.shields.io/badge/Git-latest-orange)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-latest-brightgreen)](https://github.com/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dev-johnathan=anuraghazra&layout=compact)
 ## 📫 Entre em Contato
 
 Fique à vontade para entrar em contato comigo:
