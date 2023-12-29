@@ -1,0 +1,11 @@
+{
+    "name": "seu-projeto",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node languages.js"
+    },
+    "dependencies": {
+      "node-fetch": "^2.6.1"
+    }
+  }
+  
