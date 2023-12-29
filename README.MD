@@ -16,21 +16,24 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 
 ## 🚀 Linguagens e Tecnologias
 
+## 🚀 Linguagens e Tecnologias
+
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/JavaScript-ES6-yellow">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-latest-brightgreen">
-  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3.8-blue">
-  <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/React-latest-blue">
-  <img align="center" alt="React Native" height="30" width="40" src="https://img.shields.io/badge/React_Native-latest-blue">
-  <img align="center" alt="REST API" height="30" width="40" src="https://img.shields.io/badge/API-REST-green">
-  <img align="center" alt="Docker" height="30" width="40" src="https://img.shields.io/badge/Docker-latest-blue">
-  <img align="center" alt="AWS" height="30" width="40" src="https://img.shields.io/badge/AWS-latest-orange">
-  <img align="center" alt="IA" height="30" width="40" src="https://img.shields.io/badge/IA-Machine_Learning-blueviolet">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-latest-blue">
-  <img align="center" alt="Linux" height="30" width="40" src="https://img.shields.io/badge/Linux-Ubuntu-green">
-  <img align="center" alt="Git" height="30" width="40" src="https://img.shields.io/badge/Git-latest-orange">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://img.shields.io/badge/GitHub-latest-brightgreen">
+  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
+  <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="REST API" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg">
+  <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="IA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg">
+  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 </div>
 
