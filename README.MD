@@ -7,6 +7,7 @@ Bem-vindo ao meu GitHub! Estou sempre aprendendo e adoro compartilhar o que sei.
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![Node.js](https://img.shields.io/badge/Node.js-latest-brightgreen)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.8-blue)](https://docs.python.org/3.8/)
 [![React](https://img.shields.io/badge/React-latest-blue)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-latest-blue)](https://reactnative.dev/versions)
@@ -16,6 +17,8 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 [![IA](https://img.shields.io/badge/IA-Machine_Learning-blueviolet)](https://scikit-learn.org/stable/index.html)
 [![MySQL](https://img.shields.io/badge/MySQL-latest-blue)](https://dev.mysql.com/doc/)
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu-green)](https://help.ubuntu.com/)
+[![Git](https://img.shields.io/badge/Git-latest-orange)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-latest-brightgreen)](https://github.com/)
 
 
 ## 📫 Entre em Contato
