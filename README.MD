@@ -12,82 +12,83 @@ Fique à vontade para entrar em contato comigo:
 ## 🚀 Linguagens e Tecnologias
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 
+## 🚀 Linguagens e Tecnologias
 
-<div style="display: inline_block; text-align: center;"><br>
+<div style="display: flex; justify-content: space-around; align-items: center;"><br>
   
-  <div>
+  <div style="text-align: center;">
     <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <br>
     JavaScript
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <br>
     Node.js
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <br>
     Python
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <br>
     React
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <br>
     React Native
   </div>
 
-  <div>
-    <img alt="API" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png">
+  <div style="text-align: center;">
+    <img alt="API" height="40" src="https://cdn-icons-png.flaticon.com/512/8099/8099220.png">
     <br>
     API
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <br>
     Docker
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <br>
     AWS
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="Machine Learning" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png">
     <br>
     Machine Learning
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <br>
     MySQL
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <br>
     Linux
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <br>
     Git
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <br>
     GitHub
