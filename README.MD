@@ -6,16 +6,17 @@ Bem-vindo ao meu GitHub! Estou sempre aprendendo e adoro compartilhar o que sei.
 
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 
-!JavaScript
-!Python
-!React
-!React Native
-!REST API
-!Docker
-!AWS
-!IA
-!MySQL
-!Linux
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://docs.python.org/3.8/)
+[![React](https://img.shields.io/badge/React-latest-blue)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-latest-blue)](https://reactnative.dev/versions)
+[![REST API](https://img.shields.io/badge/API-REST-green)](https://docs.github.com/en/rest)
+[![Docker](https://img.shields.io/badge/Docker-latest-blue)](https://docs.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-latest-orange)](https://docs.aws.amazon.com/)
+[![IA](https://img.shields.io/badge/IA-Machine_Learning-blueviolet)](https://scikit-learn.org/stable/index.html)
+[![MySQL](https://img.shields.io/badge/MySQL-latest-blue)](https://dev.mysql.com/doc/)
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu-green)](https://help.ubuntu.com/)
+
 
 ## 📫 Entre em Contato
 
