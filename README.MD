@@ -1,7 +1,14 @@
 <div>
 ## Oiii eu sou o Johnathan R. S. Borba, bem vindo ao meu GitHub!
 </div>
- 
+<div>
+ ### Linguagens usadas nos meus repositórios
+
+<!--START_SECTION:languages-->
+*As linguagens serão atualizadas automaticamente.*
+<!--END_SECTION:languages-->
+
+</div>
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
