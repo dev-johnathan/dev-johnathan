@@ -12,6 +12,23 @@ Fique à vontade para entrar em contato comigo:
 ## 🚀 Linguagens e Tecnologias
 
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
+## 🚀 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Jv-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  
+  <img align="center" alt="Jv-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  
+  <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+
+
+  <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
+</div>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![Node.js](https://img.shields.io/badge/Node.js-latest-brightgreen)](https://nodejs.org/)
@@ -26,6 +43,7 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu-green)](https://help.ubuntu.com/)
 [![Git](https://img.shields.io/badge/Git-latest-orange)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-latest-brightgreen)](https://github.com/)
+
 
 ## 📊 Linguagens Mais Usadas
 
