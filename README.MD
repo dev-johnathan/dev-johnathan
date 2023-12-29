@@ -2,20 +2,18 @@
 ## Oiii eu sou o Johnathan R. S. Borba, bem vindo ao meu GitHub!
 </div>
 
-### Linguagens usadas nos meus repositórios
+### Linguagens e tecnologias 
 
-<!--START_SECTION:languages-->
-*As linguagens serão atualizadas automaticamente.*
-<!--END_SECTION:languages-->
-
-<details>
-<summary>Clique para ver as linguagens usadas nos meus repositórios</summary>
-
-<!--START_SECTION:languages-->
-*As linguagens serão atualizadas automaticamente.*
-<!--END_SECTION:languages-->
-
-</details>
+![JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+![Python](https://docs.python.org/3.8/)
+![React](https://react.dev/)
+![React Native](https://reactnative.dev/versions)
+![REST API](https://docs.github.com/en/rest)
+![Docker](https://docs.docker.com/)
+![AWS](https://docs.aws.amazon.com/)
+![IA](https://scikit-learn.org/stable/index.html)
+![MySQL](https://dev.mysql.com/doc/)
+![Linux](https://help.ubuntu.com/)
 
 
 
