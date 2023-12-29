@@ -4,18 +4,16 @@
 
 ### Linguagens e tecnologias 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![Python](https://img.shields.io/badge/Python-3.8-blue)](https://docs.python.org/3.8/)
-[![React](https://img.shields.io/badge/React-latest-blue)](https://react.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-latest-blue)](https://reactnative.dev/versions)
-[![REST API](https://img.shields.io/badge/API-REST-green)](https://docs.github.com/en/rest)
-[![Docker](https://img.shields.io/badge/Docker-latest-blue)](https://docs.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-latest-orange)](https://docs.aws.amazon.com/)
-[![IA](https://img.shields.io/badge/IA-Machine_Learning-blueviolet)](https://scikit-learn.org/stable/index.html)
-[![MySQL](https://img.shields.io/badge/MySQL-latest-blue)](https://dev.mysql.com/doc/)
-[![Linux](https://img.shields.io/badge/Linux-Ubuntu-green)](https://help.ubuntu.com/)
-
-
+[![JavaScript](https://badgen.net/badge/JavaScript/ES6/yellow)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![Python](https://badgen.net/badge/Python/3.8/blue)](https://docs.python.org/3.8/)
+[![React](https://badgen.net/badge/React/latest/blue)](https://react.dev/)
+[![React Native](https://badgen.net/badge/React_Native/latest/blue)](https://reactnative.dev/versions)
+[![REST API](https://badgen.net/badge/API/REST/green)](https://docs.github.com/en/rest)
+[![Docker](https://badgen.net/badge/Docker/latest/blue)](https://docs.docker.com/)
+[![AWS](https://badgen.net/badge/AWS/latest/orange)](https://docs.aws.amazon.com/)
+[![IA](https://badgen.net/badge/IA/Machine_Learning/blueviolet)](https://scikit-learn.org/stable/index.html)
+[![MySQL](https://badgen.net/badge/MySQL/latest/blue)](https://dev.mysql.com/doc/)
+[![Linux](https://badgen.net/badge/Linux/Ubuntu/green)](https://help.ubuntu.com/)
 
 <div> 
  
