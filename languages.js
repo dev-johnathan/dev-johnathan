@@ -1,4 +1,5 @@
 const fetch = require('node-fetch');
+const fs = require('fs').promises;
 
 const username = 'dev-johnathan'; // Substitua pelo seu nome de usuário do GitHub
 
@@ -20,8 +21,11 @@ async function fetchLanguages() {
       }
     });
 
-    console.log('Linguagens usadas nos repositórios:');
-    console.log(languages);
+    const output = Object.entries(languages)
+      .map(([language, count]) => `- ${language}: ${count}`)
+      .join('\n');
+
+    await fs.writeFile('languages-output.md', output);
   } catch (error) {
     console.error('Erro ao recuperar informações do GitHub API:', error.message);
   }
