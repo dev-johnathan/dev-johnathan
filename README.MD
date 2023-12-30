@@ -11,22 +11,63 @@ Fique à vontade para entrar em contato comigo:
 
 ## 🚀 Linguagens e Tecnologias
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
-<div style="display: inline_block"><br>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="https://nodejs.org/" target="_blank"><img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://docs.python.org/3.8/" target="_blank"><img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-  <a href="https://reactnative.dev/versions" target="_blank"><img align="center" alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-  <a href="https://docs.github.com/en/rest" target="_blank"><img align="center" alt="REST API" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg"></a>
-  <a href="https://docs.docker.com/" target="_blank"><img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></a>
-  <a href="https://docs.aws.amazon.com/" target="_blank"><img align="center" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
-  <a href="https://scikit-learn.org/stable/index.html" target="_blank"><img align="center" alt="Machine Learning" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png"></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
-  <a href="https://help.ubuntu.com/" target="_blank"><img align="center" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  <a href="https://github.com/" target="_blank"><img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+## 🚀 Linguagens e Tecnologias
 
+<div style="display: inline_block; text-align: center;"><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
+    <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <br>JavaScript
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <br>Node.js
+  </a>
+  <a href="https://docs.python.org/3.8/" target="_blank">
+    <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <br>Python
+  </a>
+  
+  <a href="https://react.dev/" target="_blank">
+    <img align="center" alt="React JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <br>React JS
+  </a>
+  <a href="https://reactnative.dev/versions" target="_blank">
+    <img align="center" alt="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <br>React Native
+  </a>
+  <a href="https://docs.github.com/en/rest" target="_blank">
+    <img align="center" alt="REST API" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg">
+    <br>REST API
+  </a>
+  
+  <a href="https://docs.docker.com/" target="_blank">
+    <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <br>Docker
+  </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank">
+    <img align="center" alt="AWS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <br>AWS
+  </a>
+  <a href="https://scikit-learn.org/stable/index.html" target="_blank">
+    <img align="center" alt="Machine Learning" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png">
+    <br>Machine Learning
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <br>MySQL
+  </a>
+  <a href="https://help.ubuntu.com/" target="_blank">
+    <img align="center" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <br>Linux
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <br>Git
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <br>GitHub
+  </a>
 </div>
 
 ## 📊 Linguagens Mais Usadas
