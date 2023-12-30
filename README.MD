@@ -14,7 +14,6 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
 <div style="display: inline_block"><br>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  
   <a href="https://nodejs.org/" target="_blank"><img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://docs.python.org/3.8/" target="_blank"><img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
   <a href="https://react.dev/" target="_blank"><img align="center" alt="React JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
