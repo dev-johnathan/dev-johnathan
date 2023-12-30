@@ -2,6 +2,12 @@
 
 Bem-vindo ao meu GitHub! Estou sempre aprendendo e adoro compartilhar o que sei. Aqui, você encontrará alguns dos projetos em que estive trabalhando.
 
+## 📫 Entre em Contato
+
+Fique à vontade para entrar em contato comigo:
+<a href="https://www.instagram.com/johnathan.santoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:johnathan.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/johnathan-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 ## 🚀 Linguagens e Tecnologias
 Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado recentemente:
 
@@ -22,13 +28,7 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
   <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 </div>
-## 📫 Entre em Contato
 
-Fique à vontade para entrar em contato comigo:
-
-<a href="https://www.instagram.com/johnathan.santoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:johnathan.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/johnathan-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 ## 📊 Linguagens Mais Usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-johnathan&layout=compact&theme=dracula)](https://github.com/dev-johnathan)
