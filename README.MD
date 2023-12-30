@@ -23,8 +23,7 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
   <img align="center" alt="Machine Learning" height="40" src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png">
   <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Linux Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Linux Server" height="40" src="https://www.hostbillo.com/image/unlimited-linux-hosting.webp">
   <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Metodologias Ágeis" height="40" src="https://cdn-icons-png.flaticon.com/512/1875/1875589.png">
@@ -32,6 +31,7 @@ Essas são algumas das linguagens e tecnologias com as quais tenho trabalhado re
   <img align="center" alt="Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 
 </div>
+
 
 ## 📊 Linguagens Mais Usadas
 
