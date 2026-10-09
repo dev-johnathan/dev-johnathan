@@ -2,7 +2,7 @@
 
 **AI Engineer | Generative AI & LLMs | AI Agents (Agentic AI) | RAG | NLP | Certified AWS & Oracle**
 
-Engenheiro de IA/ML certificado, com mais de 2 anos de experiência no desenvolvimento e entrega de soluções completas de IA generativa. Atuo como AI Forward Deployed Engineer na arquitetura de agentes inteligentes, RAG, fine-tuning e soluções com AWS Bedrock para os setores financeiro, educacional, varejista e automotivo. Meu trabalho parte do contexto do cliente e dos objetivos do negócio, com foco em eficiência, segurança e escalabilidade em produção.
+Engenheiro de IA/ML certificado, com mais de 2 anos de experiência no desenvolvimento e entrega de soluções completas de IA generativa. Atuo como AI Engineer na arquitetura de agentes inteligentes, RAG, fine-tuning e soluções com AWS Bedrock para os setores financeiro, educacional, varejista e automotivo. Meu trabalho parte do contexto do cliente e dos objetivos do negócio, com foco em eficiência, segurança e escalabilidade em produção.
 
 📍 Vilhena, Rondônia, Brasil
 
