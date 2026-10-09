@@ -2,21 +2,21 @@
 
 **AI Engineer | Generative AI & LLMs | AI Agents (Agentic AI) | RAG | NLP | Certified AWS & Oracle**
 
-Engenheiro de IA/ML certificado, com mais de 2 anos de experiência no desenvolvimento e entrega de soluções completas de IA generativa. Atuo como AI Engineer na arquitetura de agentes inteligentes, RAG, fine-tuning e soluções com AWS Bedrock para os setores financeiro, educacional, varejista e automotivo. Meu trabalho parte do contexto do cliente e dos objetivos do negócio, com foco em eficiência, segurança e escalabilidade em produção.
+Engenheiro de Inteligência Artificial e Machine Learning, com mais de dois anos de experiência no desenvolvimento e na entrega de soluções de IA generativa de ponta a ponta. Atuo na arquitetura de agentes inteligentes, pipelines de RAG, fine-tuning e aplicações com AWS Bedrock em projetos dos setores financeiro, educacional, varejista e automotivo. Minha abordagem combina compreensão do contexto do cliente e alinhamento aos objetivos estratégicos, com atenção à eficiência, à segurança e à escalabilidade em produção.
 
 📍 Vilhena, Rondônia, Brasil
 
 ## Competências
 
-- IA generativa, LLMs e agentes de IA (Agentic AI)
-- RAG, NLP e fine-tuning
-- AWS Bedrock, Machine Learning e Cloud Computing
-- Infraestrutura como código, funções serverless e APIs REST
+- Desenvolvimento de soluções de IA generativa e aplicações com LLMs
+- Arquitetura de agentes de IA (Agentic AI), pipelines de RAG, NLP e fine-tuning
+- Machine Learning, AWS e AWS Bedrock
+- Cloud computing, infraestrutura como código, funções serverless e APIs REST
 
 ## Formação
 
 **IF Goiano**
-Análise e Desenvolvimento de Sistemas | Janeiro de 2019 – outubro de 2024
+Curso superior em Análise e Desenvolvimento de Sistemas | Janeiro de 2019 – outubro de 2024
 
 ## Certificações
 
