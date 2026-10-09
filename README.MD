@@ -13,23 +13,6 @@ Engenheiro de IA/ML certificado, com mais de 2 anos de experiência no desenvolv
 - AWS Bedrock, Machine Learning e Cloud Computing
 - Infraestrutura como código, funções serverless e APIs REST
 
-## Experiência
-
-### Compass UOL | Artificial Intelligence Engineer
-**Maio de 2024 – atual | Data & AI Studio**
-
-Atuação em inovação e desenvolvimento de soluções de inteligência artificial e machine learning com AWS.
-
-### Compass UOL | Estagiário PB – Machine Learning com AWS
-**Novembro de 2023 – abril de 2024**
-
-Programa de bolsas em parceria com o IF Goiano, com formação em ferramentas AWS, machine learning, modelos de linguagem, chatbots, NLP, infraestrutura como código, versionamento, funções serverless, APIs REST e cloud computing.
-
-### IF Goiano | Aluno pesquisador
-**Agosto de 2023 – agosto de 2024 | Iporá, Goiás**
-
-Revisão sistemática do estado da arte sobre o uso de tecnologias de visualização de realidade aumentada (AR), virtual (VR) e mista (MR) no ensino de química.
-
 ## Formação
 
 **IF Goiano**
@@ -43,12 +26,6 @@ Análise e Desenvolvimento de Sistemas | Janeiro de 2019 – outubro de 2024
 - Oracle Fusion AI Agent Studio Certified Foundations Associate – Rel 1
 - AWS Partner: Machine Learning on AWS (Technical) – Português
 - Alexa Skill Builder para iniciantes
-
-## Idiomas
-
-- Português: nativo ou bilíngue
-- Inglês: nível de trabalho limitado
-- Espanhol: básico
 
 ## Contato
 
